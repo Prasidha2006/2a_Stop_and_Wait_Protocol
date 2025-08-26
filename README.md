@@ -14,6 +14,8 @@ To write a python program to perform stop and wait protocol
 # server.py
 
 ```
+# PRASIDHA A - 212224230204
+
 import socket
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -40,6 +42,8 @@ print("Connection closed.")
 ### client.py
 
 ```
+# PRASIDHA A - 212224230204
+
 # client.py
 import socket
 import time
