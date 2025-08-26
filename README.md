@@ -68,11 +68,11 @@ print("Client finished sending frames.")
 
 ### server.py
 
-![alt text](<Screenshot 2025-08-21 160316-1.png>)
+![alt text](<Screenshot 2025-08-26 154019.png>)
 
 ### client.py
 
-![alt text](<Screenshot 2025-08-21 160304.png>)
+![alt text](<Screenshot 2025-08-26 153959.png>)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
